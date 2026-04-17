@@ -81,4 +81,9 @@ __***Underline Bold Italic***__ - \`__***Underline Bold Italic***__\`
       "Please refrain from self-promotion of your social media (e.g. YouTube, LinkedIn, Twitter). You may include such links in your Discord profile if you wish. Links to projects for the limited purpose of debugging or review are also acceptable as long as the purpose for posting is not to drive traffic to the project.",
     name: "No self-promotion",
   },
+  {
+    message:
+      "Generative Artificial Intelligence is not meant to be discussed in the main channels. Please assign yourself the AI Discussion role from the 'Channels & Roles' tab in the discord, if you have not done so already. Then head to <#1470971978667266312> to discuss it. Thank you",
+    name: "AI Channel",
+  },
 ];
